@@ -1,2 +1,2 @@
-# who-
-who++ programming language
+# who
+who programming language
